@@ -10,3 +10,5 @@ This file contains the algorithims that I created when I took MECH105-Numerical 
 2. LU Factorization
 
 3. Simpsons 1/3 Rule Numerical Integration
+
+4. Binary Converter
