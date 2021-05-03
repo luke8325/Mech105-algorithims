@@ -50,4 +50,4 @@ end
 % testFunc = @(x) Function; 
 % x_left = xl;
 % x_right = xu;
-% [root, fx, ea, iter] = falsePosition(test, x_left, x_right)
+% [root, fx, ea, iter] = falsePosition(test, x_left, x_right) 
